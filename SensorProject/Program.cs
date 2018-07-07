@@ -10,7 +10,8 @@ namespace SensorProject
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("fuck yes");
+            
         }
     }
 }
